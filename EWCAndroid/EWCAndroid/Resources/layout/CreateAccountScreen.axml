@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="100"
+    android:minHeight="25px"
+    android:minWidth="25px">
+    <ImageView
+        android:src="@drawable/backgroundwaxing"
+        android:layout_width="match_parent"
+        android:layout_weight="15"
+        android:layout_height="0dp"
+        android:id="@+id/imgCreateAccountScreen"
+        android:scaleType="fitStart" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+        android:id="@+id/txtFullName"
+        android:gravity="center"
+        android:hint="FULL NAME" />
+    <EditText
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+        android:id="@+id/txtPhoneNumber"
+        android:gravity="center"
+        android:hint="PHONE NUMBER" />
+    <EditText
+        android:inputType="textEmailAddress"
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+        android:id="@+id/txtEmail"
+        android:gravity="center"
+        android:hint="EMAIL" />
+    <EditText
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+        android:id="@+id/txtPassword"
+        android:gravity="center"
+        android:hint="PASSWORD" />
+    <ToggleButton
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+        android:id="@+id/toggleButton1" />
+    <ToggleButton
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+        android:id="@+id/toggleButton2" />
+    <Button
+        android:text="CREATE ACCOUNT"
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+        android:id="@+id/btnCreateAccount"
+        android:gravity="center" />
+    <TextView
+        android:text="or Sign Up With"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_weight="5"
+        android:layout_height="0dp"
+        android:id="@+id/lblSignUpWith"
+        android:gravity="center"
+        android:linksClickable="false" />
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center">
+        <ImageView
+            android:src="@drawable/facebook"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:id="@+id/btnFacebook" />
+        <ImageView
+            android:src="@drawable/twitterlogin"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:id="@+id/btnTwitter" />
+        <ImageView
+            android:src="@drawable/gogglelogin"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:id="@+id/btnGoogle" />
+    </LinearLayout>
+</LinearLayout>

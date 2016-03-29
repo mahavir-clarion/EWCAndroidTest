@@ -1,0 +1,5 @@
+projectKey=ewc_xamarin_app
+serverUrl=http://192.168.60.53:9000
+dashboardUrl=http://192.168.60.53:9000/dashboard/index/ewc_xamarin_app
+ceTaskId=AVO87byqI8PP_oD3HDhw
+ceTaskUrl=http://192.168.60.53:9000/api/ce/task?id=AVO87byqI8PP_oD3HDhw
