@@ -44,6 +44,8 @@ namespace EWCAndroid
 			};
 		}
 
+
+
 		private async void LoginIn(MobileServiceAuthenticationProvider provider)
 		{
 			try
