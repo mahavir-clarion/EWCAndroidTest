@@ -3,8 +3,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="EWCAndroid\LoginActivity.cs">
     <Files>
       <File FileName="EWCAndroid\MainActivity.cs" Line="1" Column="1" />
-      <File FileName="EWCAndroid\LoginActivity.cs" Line="48" Column="30" />
-      <File FileName="EWCAndroid\Helpers\NetworkManager.cs" Line="7" Column="23" />
+      <File FileName="EWCAndroid\LoginActivity.cs" Line="37" Column="49" />
+      <File FileName="EWCAndroid\Helpers\NetworkManager.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

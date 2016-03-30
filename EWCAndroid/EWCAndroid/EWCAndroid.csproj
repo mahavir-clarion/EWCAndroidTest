@@ -122,6 +122,20 @@
     <AndroidResource Include="Resources\values\Styles.xml" />
     <AndroidResource Include="Resources\layout-land\FirstScreen.axml" />
     <AndroidResource Include="Resources\drawable\res1x.png" />
+    <AndroidResource Include="Resources\drawable\BackgroundRedGirl.png" />
+    <AndroidResource Include="Resources\mipmap-hdpi\BackgroundRedGirl3x.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\BackgroundRedGirl.png" />
+    <AndroidResource Include="Resources\mipmap-hdpi\res1x.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\res2x.png" />
+    <AndroidResource Include="Resources\drawable\mainfaqRed.png" />
+    <AndroidResource Include="Resources\drawable\mainlocRed.png" />
+    <AndroidResource Include="Resources\drawable\mainptsRed.png" />
+    <AndroidResource Include="Resources\mipmap-hdpi\mainfaqRed.png" />
+    <AndroidResource Include="Resources\mipmap-hdpi\mainlocRed.png" />
+    <AndroidResource Include="Resources\mipmap-hdpi\mainptsRed.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\mainfaqRed.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\mainlocRed.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\mainptsRed.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />

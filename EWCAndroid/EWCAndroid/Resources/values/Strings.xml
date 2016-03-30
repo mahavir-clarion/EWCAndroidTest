@@ -2,5 +2,5 @@
 <resources>
 	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">EWCAndroid</string>	
-
+	<string name="name"><u>Surprise a friend with a free wax</u></string>	
 </resources>

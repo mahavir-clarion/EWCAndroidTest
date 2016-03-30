@@ -22,23 +22,25 @@ namespace EWCAndroid
 			base.OnCreate (savedInstanceState);
 
 			// Set our view from the " Defualt Screen" layout resource
-			SetContentView (Resource.Layout.FirstScreen);
+//			SetContentView (Resource.Layout.FirstScreen);
+			SetContentView (Resource.Layout.Main);
+
 
 			// Call Login Screen
-			Button callLoginScreen = FindViewById<Button> (Resource.Id.btnLogIn);
-			callLoginScreen.Click += (sender, e) =>
-			{
-				var intentLogin = new Intent(this, typeof(LoginActivity));
-				StartActivity(intentLogin);
-			};
-
-			// Call Create Account Screen
-			Button callCreateAccountScreen = FindViewById<Button> (Resource.Id.btnCreateAccount);
-			callCreateAccountScreen.Click += (sender, e) => 
-			{
-				var intentCreateAccount = new Intent(this, typeof(CreateAccountActivity));
-				StartActivity(intentCreateAccount);
-			};
+//			Button callLoginScreen = FindViewById<Button> (Resource.Id.btnLogIn);
+//			callLoginScreen.Click += (sender, e) =>
+//			{
+//				var intentLogin = new Intent(this, typeof(LoginActivity));
+//				StartActivity(intentLogin);
+//			};
+//
+//			// Call Create Account Screen
+//			Button callCreateAccountScreen = FindViewById<Button> (Resource.Id.btnCreateAccount);
+//			callCreateAccountScreen.Click += (sender, e) => 
+//			{
+//				var intentCreateAccount = new Intent(this, typeof(CreateAccountActivity));
+//				StartActivity(intentCreateAccount);
+//			};
 		}
 	}
 }
