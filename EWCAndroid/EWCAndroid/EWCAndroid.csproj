@@ -117,6 +117,8 @@
     <Compile Include="Models\EWCGuest.cs" />
     <Compile Include="Helpers\EWCAuthentication.cs" />
     <Compile Include="Helpers\Settings.cs" />
+    <Compile Include="FaqView.cs" />
+    <Compile Include="MenuListActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -396,6 +398,19 @@
     <AndroidResource Include="Resources\mipmap-mdpi\mainptsRed.png" />
     <AndroidResource Include="Resources\drawable\RedWaxRing.png" />
     <AndroidResource Include="Resources\mipmap-xhdpi\res3x.png" />
+    <AndroidResource Include="Resources\drawable\_DS_Store" />
+    <AndroidResource Include="Resources\drawable\arrowright.png" />
+    <AndroidResource Include="Resources\drawable\FAQNewGray1x.png" />
+    <AndroidResource Include="Resources\drawable\GiftGorgeous1x.png" />
+    <AndroidResource Include="Resources\drawable\HamburgerIconWhite1x.png" />
+    <AndroidResource Include="Resources\drawable\LocationNewGray1x.png" />
+    <AndroidResource Include="Resources\drawable\mainCal1x.png" />
+    <AndroidResource Include="Resources\drawable\mainfaq1x.png" />
+    <AndroidResource Include="Resources\drawable\mainpts1x.png" />
+    <AndroidResource Include="Resources\drawable\sharetheappx.png" />
+    <AndroidResource Include="Resources\drawable\struz1x.png" />
+    <AndroidResource Include="Resources\layout\MenuListScreen.axml" />
+    <AndroidResource Include="Resources\layout\SplashScreen.axml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />

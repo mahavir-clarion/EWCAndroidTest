@@ -46,46 +46,79 @@ namespace EWCAndroid
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int AppIcon291x = 2130837504;
+			public const int _DS_Store = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int AppIcon292x = 2130837505;
+			public const int AppIcon291x = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int AppIcon293x = 2130837506;
+			public const int AppIcon292x = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int AppIcon50x50 = 2130837507;
+			public const int AppIcon293x = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int BackgroundRedGirl = 2130837508;
+			public const int AppIcon50x50 = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int backgroundwaxing = 2130837509;
+			public const int arrowright = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int facebook = 2130837510;
+			public const int BackgroundRedGirl = 2130837510;
 			
 			// aapt resource value: 0x7f020007
-			public const int goggleLogin = 2130837511;
+			public const int backgroundwaxing = 2130837511;
 			
 			// aapt resource value: 0x7f020008
-			public const int mainfaqRed = 2130837512;
+			public const int facebook = 2130837512;
 			
 			// aapt resource value: 0x7f020009
-			public const int mainlocRed = 2130837513;
+			public const int FAQNewGray1x = 2130837513;
 			
 			// aapt resource value: 0x7f02000a
-			public const int mainptsRed = 2130837514;
+			public const int GiftGorgeous1x = 2130837514;
 			
 			// aapt resource value: 0x7f02000b
-			public const int RedWaxRing = 2130837515;
+			public const int goggleLogin = 2130837515;
 			
 			// aapt resource value: 0x7f02000c
-			public const int res1x = 2130837516;
+			public const int HamburgerIconWhite1x = 2130837516;
 			
 			// aapt resource value: 0x7f02000d
-			public const int twitterLogin = 2130837517;
+			public const int LocationNewGray1x = 2130837517;
+			
+			// aapt resource value: 0x7f02000e
+			public const int mainCal1x = 2130837518;
+			
+			// aapt resource value: 0x7f02000f
+			public const int mainfaq1x = 2130837519;
+			
+			// aapt resource value: 0x7f020010
+			public const int mainfaqRed = 2130837520;
+			
+			// aapt resource value: 0x7f020011
+			public const int mainlocRed = 2130837521;
+			
+			// aapt resource value: 0x7f020012
+			public const int mainpts1x = 2130837522;
+			
+			// aapt resource value: 0x7f020013
+			public const int mainptsRed = 2130837523;
+			
+			// aapt resource value: 0x7f020014
+			public const int RedWaxRing = 2130837524;
+			
+			// aapt resource value: 0x7f020015
+			public const int res1x = 2130837525;
+			
+			// aapt resource value: 0x7f020016
+			public const int sharetheappx = 2130837526;
+			
+			// aapt resource value: 0x7f020017
+			public const int struz1x = 2130837527;
+			
+			// aapt resource value: 0x7f020018
+			public const int twitterLogin = 2130837528;
 			
 			static Drawable()
 			{
@@ -121,17 +154,23 @@ namespace EWCAndroid
 			// aapt resource value: 0x7f07000a
 			public const int btnTwitter = 2131165194;
 			
+			// aapt resource value: 0x7f070015
+			public const int imageView1 = 2131165205;
+			
+			// aapt resource value: 0x7f070018
+			public const int imageView2 = 2131165208;
+			
+			// aapt resource value: 0x7f070019
+			public const int imageView3 = 2131165209;
+			
+			// aapt resource value: 0x7f07001b
+			public const int imageView4 = 2131165211;
+			
 			// aapt resource value: 0x7f070000
 			public const int imgCreateAccountScreen = 2131165184;
 			
-			// aapt resource value: 0x7f07001b
-			public const int imgFAQs = 2131165211;
-			
 			// aapt resource value: 0x7f07000f
 			public const int imgForgotPasswordScreen = 2131165199;
-			
-			// aapt resource value: 0x7f070017
-			public const int imgLocator = 2131165207;
 			
 			// aapt resource value: 0x7f070012
 			public const int imgLoginScreen = 2131165202;
@@ -139,11 +178,8 @@ namespace EWCAndroid
 			// aapt resource value: 0x7f07000e
 			public const int imgLogo = 2131165198;
 			
-			// aapt resource value: 0x7f070019
-			public const int imgPoints = 2131165209;
-			
-			// aapt resource value: 0x7f070015
-			public const int imgReservations = 2131165205;
+			// aapt resource value: 0x7f07001a
+			public const int imgMenu = 2131165210;
 			
 			// aapt resource value: 0x7f07000c
 			public const int imgScreen = 2131165196;
@@ -160,17 +196,14 @@ namespace EWCAndroid
 			// aapt resource value: 0x7f070006
 			public const int segGender = 2131165190;
 			
-			// aapt resource value: 0x7f07001d
-			public const int topLayout = 2131165213;
+			// aapt resource value: 0x7f070016
+			public const int textView1 = 2131165206;
+			
+			// aapt resource value: 0x7f070017
+			public const int topLayout = 2131165207;
 			
 			// aapt resource value: 0x7f070003
 			public const int txtEmail = 2131165187;
-			
-			// aapt resource value: 0x7f07001c
-			public const int txtFAQs = 2131165212;
-			
-			// aapt resource value: 0x7f07001e
-			public const int txtFeedBack = 2131165214;
 			
 			// aapt resource value: 0x7f070010
 			public const int txtForgotPasswordEmail = 2131165200;
@@ -178,26 +211,11 @@ namespace EWCAndroid
 			// aapt resource value: 0x7f070001
 			public const int txtFullName = 2131165185;
 			
-			// aapt resource value: 0x7f070018
-			public const int txtLocator = 2131165208;
-			
 			// aapt resource value: 0x7f070004
 			public const int txtPassword = 2131165188;
 			
 			// aapt resource value: 0x7f070002
 			public const int txtPhoneNumber = 2131165186;
-			
-			// aapt resource value: 0x7f07001a
-			public const int txtPoints = 2131165210;
-			
-			// aapt resource value: 0x7f070016
-			public const int txtReservations = 2131165206;
-			
-			// aapt resource value: 0x7f070020
-			public const int txtShare = 2131165216;
-			
-			// aapt resource value: 0x7f07001f
-			public const int txtShareSurprise = 2131165215;
 			
 			static Id()
 			{
@@ -226,6 +244,12 @@ namespace EWCAndroid
 			
 			// aapt resource value: 0x7f040004
 			public const int Main = 2130968580;
+			
+			// aapt resource value: 0x7f040005
+			public const int MenuListScreen = 2130968581;
+			
+			// aapt resource value: 0x7f040006
+			public const int SplashScreen = 2130968582;
 			
 			static Layout()
 			{

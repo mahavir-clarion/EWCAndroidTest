@@ -16,17 +16,14 @@ using Newtonsoft.Json;
 
 namespace EWCAndroid.Helpers
 {
-
-
-
 	public static class Util
 	{
-		 public static string GetDeviceInfo()
+		public static string GetDeviceInfo()
 		{
 			return	Android.OS.Build.Model + ":" + Android.OS.Build.Manufacturer + ":" + Android.OS.Build.VERSION.Codename;
 
 			//return UIDevice.CurrentDevice.Model + ":" + UIDevice.CurrentDevice.SystemName + ":" + UIDevice.CurrentDevice.SystemVersion;
-		}
+		}             
 
 		public static double ConvertDistanceToMiles(double distance)
 		{

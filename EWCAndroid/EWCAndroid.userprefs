@@ -1,20 +1,19 @@
 ﻿<Properties StartupItem="EWCAndroid\EWCAndroid.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.IrisX8415A0002204" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EWCAndroid\CreateAccountActivity.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_23" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EWCAndroid\FaqView.cs">
     <Files>
-      <File FileName="EWCAndroid\CreateAccountActivity.cs" Line="46" Column="4" />
-      <File FileName="EWCAndroid\Helpers\Util.cs" Line="117" Column="1" />
-      <File FileName="EWCAndroid\LoginActivity.cs" Line="132" Column="71" />
-      <File FileName="EWCAndroid\AppDelegate.cs" Line="61" Column="4" />
-      <File FileName="EWCAndroid\Helpers\EWCAuthentication.cs" Line="225" Column="5" />
-      <File FileName="EWCAndroid\Helpers\EWCApiManager.cs" Line="82" Column="57" />
-      <File FileName="EWCAndroid\Helpers\Settings.cs" Line="57" Column="16" />
-      <File FileName="h:\GIT\EWCAndroid\EWCAndroid\Models\EWCAPIModels.cs" Line="65" Column="1" />
+      <File FileName="EWCAndroid\CreateAccountActivity.cs" Line="44" Column="4" />
+      <File FileName="EWCAndroid\Helpers\Settings.cs" Line="1" Column="1" />
+      <File FileName="h:\GIT\EWCAndroid\EWCAndroid\Models\EWCAPIModels.cs" Line="1" Column="1" />
+      <File FileName="EWCAndroid\FaqView.cs" Line="15" Column="1" />
+      <File FileName="EWCAndroid\MainActivity.cs" Line="15" Column="4" />
+      <File FileName="C:\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets" Line="1685" Column="33" />
+      <File FileName="EWCAndroid\SplashScreen.cs" Line="18" Column="56" />
+      <File FileName="h:\GIT\EWCAndroid\EWCAndroid\Helpers\NetworkManager.cs" Line="38" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="C:\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets" line="1698" column="8" />
       <Breakpoint file="H:\GIT\EWCAndroid\EWCAndroid\LoginActivity.cs" line="113" column="1" />
       <Breakpoint file="H:\GIT\EWCAndroid\EWCAndroid\CreateAccountActivity.cs" line="127" column="69" />
       <Breakpoint file="H:\GIT\EWCAndroid\EWCAndroid\CreateAccountActivity.cs" line="57" column="1" />
